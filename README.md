@@ -80,5 +80,3 @@ uv run threatviz.py -dashboard
   year = {2025}
 }
 ```
----
-###### This project is built for the purpose of perticipatating at agentic AI coding and deployment hackathon sponsored by @https://github.com/codebasics
